@@ -45,7 +45,7 @@ char fac;
      digitalWrite(5,LOW); }
    else if( fac == 'E' ){ 
    digitalWrite(6,LOW); }
-   else if ( fac == 'F' ){
+   else if ( fac == 'Z' ){
      digitalWrite(2,LOW);
      digitalWrite(3,LOW);
      digitalWrite(4,LOW);
